@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -cp target/hello-1.0.0.jar edu.ucsb.cs156.spring.hello.Application
